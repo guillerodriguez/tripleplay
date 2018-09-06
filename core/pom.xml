@@ -15,14 +15,14 @@
 
   <dependencies>
     <dependency>
-      <groupId>io.playn</groupId>
+      <groupId>com.github.guillerodriguez.playn</groupId>
       <artifactId>playn-scene</artifactId>
       <version>${playn.version}</version>
       <scope>compile</scope>
     </dependency>
 
     <dependency>
-      <groupId>io.playn</groupId>
+      <groupId>com.github.guillerodriguez.playn</groupId>
       <artifactId>playn-java-lwjgl</artifactId>
       <version>${playn.version}</version>
       <scope>test</scope>
